@@ -1,0 +1,42 @@
+* {
+    border: 1px solid red;
+}
+
+img.logo {
+    height 1;
+    width: 100px;
+}
+
+.navbar-custom {
+    background-color: lightcoral;
+    color: white;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+
+
+
+body {
+    background-image: url("pictures/bak1.jpg");
+    color: white;
+
+}
+
+.container-fluid {
+    padding-top: 20px;
+}
+
+#main-content {
+    font-size: 20px;
+    padding: 5px;
+    border: 5px;
+    border-color: gray;
+    border-style: solid;
+}
+
+a.nav-link {
+    color: white;
+}
